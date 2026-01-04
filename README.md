@@ -1,4 +1,7 @@
 # REX_Forex_Agent_with_Gemini
+
+https://chatgpt.com/c/695ad1fa-70dc-8328-a831-eff692bf085f 
+
 Here’s a clear, practical design for a Forex Quick Report Agent using a Multi-Agent Workflow, suitable for n8n, LangGraph, CrewAI, or similar orchestration tools.
 
 🧠 Forex Quick Report Agent
